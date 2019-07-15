@@ -1,0 +1,1 @@
+This project is called "Deploy All The Things" which is part of the OPS200 module. Simply clone the files from GitHub, open up the Terminal, run 'npm install'. Then run 'npm test' to verify that all heroku app links have been added for each project located in the config.json file.
